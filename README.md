@@ -1,5 +1,5 @@
 # s3-to-elasticsearch
-Stream data from S3 endpoints to your Elasticsearch
+Stream JSON data from S3 endpoints to your Elasticsearch
 
 ## Run Kibana on Docker to view Elasticsearch data 
 
